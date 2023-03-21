@@ -1,5 +1,5 @@
 ## h5p-misc-math-001
-[h5p-misc-math-001](https://github.com/justineuro/h5p-misc-math-001) is an implementation of [h5p-standalone](https://github.com/tunapanda/h5p-standalone).  The file [`misc-math-001-15.html`](./misc-math-001-15.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-misc-math-001/misc-math-001-15.html)) contains a simple H5P that uses the [Branching Scenario H5P template](https://h5p.org/branching-scenario) to deliver learning materials that explain how to find the sum of the roots of a quadratic equation.  
+[h5p-misc-math-001](https://github.com/justineuro/h5p-misc-math-001) is an implementation of [h5p-standalone](https://github.com/tunapanda/h5p-standalone).  The file [`misc-math-001-15.html`](./misc-math-001-15.html) (see the H5P rendered [here](https://justineuro.github.io/h5p-misc-math-001/misc-math-001-15.html)) contains a simple H5P that uses the [Question Set H5P template](https://h5p.org/question-set) to generate a set of 15 multiple-choice questions in math (from a pool of 30 quesionts).  
   
 This folder includes (among others):  
   
