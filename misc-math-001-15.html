@@ -1,0 +1,11 @@
+<div id='h5p-container'></div>
+<script type="text/javascript" src="dist/main.bundle.js"></script>
+<script type="text/javascript">
+const el = document.getElementById('h5p-container');
+const options = {
+  h5pJsonPath:  './miscellaneous-math-001-15',
+  frameJs: './dist/frame.bundle.js',
+  frameCss: './dist/styles/h5p.css',
+}
+new H5PStandalone.H5P(el, options);
+</script>
